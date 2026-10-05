@@ -1,0 +1,3 @@
+# Optional LAN speech; configure your own endpoint in menuconfig.
+CONFIG_MUSE_LOCAL_TTS=y
+CONFIG_MUSE_LOCAL_TTS_URL=""
